@@ -1,11 +1,11 @@
 ---
-title: "Demo aft format to use as template"
+title: "Bulk RNA Seq vs ScRNA Seq"
 format:
   aft-pdf:
     keep-tex: true  
   aft-html: default
 author:
-  - name: John Doe
+  - name: Jing Liu
     affiliations:
       - name: Dummy org
         department: Cool Dep
